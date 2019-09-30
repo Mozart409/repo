@@ -1,0 +1,13 @@
+Package: com.johnnyb186.LightsOut~b7
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Filename: debs/LightsOut~b7.deb
+Size: 36967848
+MD5sum: d5c59e8c662482081b8e558289ec70bc
+SHA1: 64d81bc11778660e3c32633dd5d8d369b0fcaa79
+SHA256: 1a027a415bcb2357aba91167a5d163d5bab2db1cb88ac866d363c1c07cafe0c0
+Section: Themes
+Description: LightsOut is a beautiful theme.
+Author: johnnyb186
+Name: LightsOut
