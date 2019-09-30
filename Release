@@ -1,8 +1,8 @@
-Origin: repo.mozart409
-Label: repo.mozart409
+Origin: WPlus.repo
+Label: WPlus - Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: repo.mozart409
+Description: Our own repo
