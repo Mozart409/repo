@@ -25,3 +25,18 @@ Section: Themes
 Description: CircularIcons is a beautiful theme.
 Author: johnnyb186
 Name: CircularIcons
+
+
+Package: com.johnnyb186.LightsOutWidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: johnnyb186
+Filename: debs/LightsOutWidget.deb
+Size: 36967848
+MD5sum: ff31254a737ae53eab315bcfb267f2ad
+SHA1: 9a91c81a49734e30755251fccc2fee5effcfadee
+SHA256: 0c6c9d47fa20ce4bd5f074e695a12127c9af9f7803c419c871bcae97982e524a
+Section: Widgets
+Description: Xen HTML Widget for Lights Out Theme.
+Author: johnnyb186
+Name: LightsOut Widget
