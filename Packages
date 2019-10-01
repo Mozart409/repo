@@ -26,7 +26,6 @@ Description: CircularIcons mask for LightsOut theme.
 Author: johnnyb186
 Name:  CircularIcons Mask
 
-
 Package: com.johnnyb186.LightsOutWidget
 Version: 1.0
 Architecture: iphoneos-arm
@@ -40,7 +39,6 @@ Section: Widgets
 Description: Xen HTML Widget for Lights Out Theme.
 Author: johnnyb186
 Name: LightsOut Widget
-
 
 Package: com.johnnyb186.LightsOutiWidget
 Version: 1.0
