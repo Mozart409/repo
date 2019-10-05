@@ -3,7 +3,7 @@ Version: 0.8
 Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/LightsOut~b8.deb
-Size: 36967848
+Size: 51262832
 MD5sum: e415ab361924530024d251a9ab3da068
 SHA1: fa1f0802fcee6484ace063cdd8a4b9be38bb691c
 SHA256: 4742ceb8a4f6859e4de7fc4aaaf1a36b47de6f8d6a9c793564994b97e0b31f86
@@ -17,7 +17,7 @@ Version: 0.8
 Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/CircularIcons.deb
-Size: 36967848
+Size: 7088
 MD5sum: 8fcfe61ba569f57df09d92224618168c
 SHA1: 2e8006f03aeb644f591320547012380c81a46de4
 SHA256: 559c140df987b4f0c0d7fb2b92841ce78c959379ea791fd010aa7e38069e2085
@@ -31,7 +31,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/LightsOutWidget.deb
-Size: 36967848
+Size: 1388584
 MD5sum: ff31254a737ae53eab315bcfb267f2ad
 SHA1: 9a91c81a49734e30755251fccc2fee5effcfadee
 SHA256: 0c6c9d47fa20ce4bd5f074e695a12127c9af9f7803c419c871bcae97982e524a
@@ -45,7 +45,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/LightsOutiWidget.deb
-Size: 36967848
+Size: 1703020
 MD5sum: c9d25b39839ad18af1e0821f4fb6f5fe
 SHA1: e2e03323f486dbd49c9368bf9bf118ff8446ff1d
 SHA256: a7441ff1ed5ea8d156dd1cd38e43377d0415d6e017cef04c19f864c635236d6a
