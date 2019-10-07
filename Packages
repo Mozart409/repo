@@ -24,7 +24,7 @@ SHA256: 559c140df987b4f0c0d7fb2b92841ce78c959379ea791fd010aa7e38069e2085
 Section: Themes
 Description: CircularIcons mask.
 Author: johnnyb186
-Name:  CircularIcons Mask
+Name: CircularIcons Mask
 
 Package: com.johnnyb186.LightsOutWidget
 Version: 1.0
@@ -66,4 +66,4 @@ SHA256: 03471b74d96238da3cf3ab8ec0e35015e8b1a751d1747e0c3424210ca461ec64
 Section: Widgets
 Description: Rainbow Smiley iWidget for Xen HTML
 Author: johnnyb186
-Name:  Rainbow Smiley iWidget
+Name: Rainbow Smiley iWidget
