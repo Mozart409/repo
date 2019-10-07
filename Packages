@@ -46,9 +46,9 @@ Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/LightsOutiWidget.deb
 Size: 1703020
-MD5sum: c9d25b39839ad18af1e0821f4fb6f5fe
-SHA1: e2e03323f486dbd49c9368bf9bf118ff8446ff1d
-SHA256: a7441ff1ed5ea8d156dd1cd38e43377d0415d6e017cef04c19f864c635236d6a
+MD5sum: b22ef5b2cad738993e997186bf588539
+SHA1: af0e5e1f41823cdc92aefd9346ee8c6c4e3927a0
+SHA256: 869c8f87ace72be910007be32ec6cfb399993b4d474fe6af1cbc15964821d186
 Section: Widgets
 Description: Beautiful Moon iWidget for Xen HTML
 Author: johnnyb186
