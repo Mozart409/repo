@@ -40,15 +40,15 @@ Description: Xen HTML Widget for Lights Out Theme.
 Author: johnnyb186
 Name: LightsOut Widget
 
-Package: com.johnnyb186.MooniWidget
+Package: com.johnnyb186.mooniwidget
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/LightsOutiWidget.deb
 Size: 1703020
-MD5sum: b22ef5b2cad738993e997186bf588539
-SHA1: af0e5e1f41823cdc92aefd9346ee8c6c4e3927a0
-SHA256: 869c8f87ace72be910007be32ec6cfb399993b4d474fe6af1cbc15964821d186
+MD5sum: 0207623462d7676a4050bf884e2f34e0
+SHA1: 33f5eda81afd053d39d58e0c8ed60e91ba79d692
+SHA256: d3e345e076c77d07fe7260b1b23497fcb434301ba96c49bb926846ef1bfc910b
 Section: Widgets
 Description: Beautiful Moon iWidget for Xen HTML
 Author: johnnyb186
