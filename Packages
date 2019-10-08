@@ -74,10 +74,10 @@ Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/DIYiWidget.deb
 Size: 1388584
-MD5sum: 13a8b16017935aeb36878c16f11067bd
-SHA1: 1f733ba94e396ca7ff29f065dcf56ad95bd0605e
-SHA256: cfc7228c17dad2bd5e77633a52075433ad5133c447e24e51f679b568dfe6d747
+MD5sum: 0dbf316d5f89613c283141e838447ee2
+SHA1: 4451f24aa9c7da5fbcdc99717ec997742e7ece1d
+SHA256: 1f1ac1d751da7a015a687ef4edbfb753cb201eda80e4f190292dea212b2ba962
 Section: Widgets
-Description: Read readme in private>var>mobile>Library>iWidgets>DIY iWidget.
+Description: View readme in private>var>mobile>Library>iWidgets>DIY iWidget to set your own image.
 Author: johnnyb186
 Name: DIY iWidget
