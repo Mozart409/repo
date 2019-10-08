@@ -67,3 +67,17 @@ Section: Widgets
 Description: Rainbow Smiley iWidget for Xen HTML
 Author: johnnyb186
 Name: Rainbow Smiley iWidget
+
+Package: com.johnnyb186.diyiwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: johnnyb186
+Filename: debs/DIYiWidget.deb
+Size: 1388584
+MD5sum: 13a8b16017935aeb36878c16f11067bd
+SHA1: 1f733ba94e396ca7ff29f065dcf56ad95bd0605e
+SHA256: cfc7228c17dad2bd5e77633a52075433ad5133c447e24e51f679b568dfe6d747
+Section: Widgets
+Description: 13a8b16017935aeb36878c16f11067bd
+Author: johnnyb186
+Name: DIY iWidget
