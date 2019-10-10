@@ -10,6 +10,7 @@ SHA256: b258ced74d28c007ff5c498ed4686027724c2ec50ff32fad197a7d8117bb7429
 Section: Themes
 Description: LightsOut is a beautiful theme.
 Author: johnnyb186
+Icon: icons/TestIcon.png
 Name: LightsOut
 
 Package: com.johnnyb186.CircularIcons
@@ -22,6 +23,7 @@ MD5sum: 8fcfe61ba569f57df09d92224618168c
 SHA1: 2e8006f03aeb644f591320547012380c81a46de4
 SHA256: 559c140df987b4f0c0d7fb2b92841ce78c959379ea791fd010aa7e38069e2085
 Section: Themes
+Icon: icons/TestIcon.png
 Description: CircularIcons mask.
 Author: johnnyb186
 Name: CircularIcons Mask
@@ -39,6 +41,7 @@ Section: Widgets
 Description: Xen HTML Widget for Lights Out Theme.
 Author: johnnyb186
 Name: LightsOut Widget
+Icon: icons/TestIcon.png
 
 Package: com.johnnyb186.mooniwidget
 Version: 1.0
@@ -53,6 +56,7 @@ Section: Widgets
 Description: Beautiful Moon iWidget for Xen HTML
 Author: johnnyb186
 Name: Moon iWidget
+Icon: icons/TestIcon.png
 
 Package: com.johnnyb186.smileyiWidget
 Version: 0.8
@@ -67,6 +71,7 @@ Section: Widgets
 Description: Rainbow Smiley iWidget for Xen HTML
 Author: johnnyb186
 Name: Rainbow Smiley iWidget
+Icon: icons/TestIcon.png
 
 Package: com.johnnyb186.diyiwidget
 Version: 1.0
@@ -81,3 +86,4 @@ Section: Widgets
 Description: View readme in private>var>mobile>Library>iWidgets>DIY iWidget to set your own image.
 Author: johnnyb186
 Name: DIY iWidget
+Icon: icons/TestIcon.png
