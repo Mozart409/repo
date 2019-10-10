@@ -1,12 +1,12 @@
 Package: com.johnnyb186.LightsOut
-Version: 0.85
+Version: 0.86
 Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/LightsOut.deb
 Size: 51262832
-MD5sum: 490e63066906c3146509227a05889fdd
-SHA1: 2f64298d564e84c9e00a876f975b93252768b717
-SHA256: b258ced74d28c007ff5c498ed4686027724c2ec50ff32fad197a7d8117bb7429
+MD5sum: 3c85ba38c7be17b76d3d4b64080d45db
+SHA1: 0569b13db4ad51e33f8a9d627b10f56b70789291
+SHA256: e25c7fbf26801920afea635cfe204dc84e5e57f3e5365c1315c2a185fd76f2c2
 Section: Themes
 Description: LightsOut is a beautiful theme.
 Author: johnnyb186
