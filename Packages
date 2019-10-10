@@ -69,14 +69,14 @@ Author: johnnyb186
 Name: Rainbow Smiley iWidget
 
 Package: com.johnnyb186.diyiwidget
-Version: 1.0.1-1
+Version: 1.0.1-2
 Architecture: iphoneos-arm
 Maintainer: johnnyb186
 Filename: debs/DIYiWidget.deb
 Size: 1388584
-MD5sum: d734326972044b5becff902ed1cb08a1
-SHA1: 9eab5bff6a9ade270e8399e5d6ee46df27808ce4
-SHA256: a2a437c87b225e67b44c05e1f9a6dbb169ff05584bdd8770f22c1a9f17dcac8b
+MD5sum: 8a541e6d1a798481468e0d93aba2a6eb
+SHA1: 09f9993b63791de8f4450fdb01ca882bfb8937d3
+SHA256: b2e417412fdf03833bdd5b77cfe1ab24e44e30fceff4dea8c85a3b415033652f
 Section: Widgets
 Description: View readme in private>var>mobile>Library>iWidgets>DIY iWidget to set your own image.
 Author: johnnyb186
