@@ -1,22 +1,22 @@
 Package: com.johnnyb186.LightsOut
-Version: 0.86
+Version: 0.87
 Architecture: iphoneos-arm
-Maintainer: johnnyb186
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/LightsOut.deb
 Size: 51262832
-MD5sum: 3c85ba38c7be17b76d3d4b64080d45db
-SHA1: 0569b13db4ad51e33f8a9d627b10f56b70789291
-SHA256: e25c7fbf26801920afea635cfe204dc84e5e57f3e5365c1315c2a185fd76f2c2
+MD5sum: d54b77d5233c10bd782a563c4c35426c
+SHA1: 2220e6d4904d3ffe9438381f6ab2e94d4c7b1239
+SHA256: 0a855e8adf72b75fad341a0af8f98ef3902ff0f3a1ae354c8d4a594f7f447f31
 Section: Themes
 Description: LightsOut is a beautiful theme.
-Author: johnnyb186
-Icon: icons/TestIcon.png
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
 Name: LightsOut
 
 Package: com.johnnyb186.CircularIcons
 Version: 0.8
 Architecture: iphoneos-arm
-Maintainer: johnnyb186
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/CircularIcons.deb
 Size: 7088
 MD5sum: 8fcfe61ba569f57df09d92224618168c
@@ -25,13 +25,13 @@ SHA256: 559c140df987b4f0c0d7fb2b92841ce78c959379ea791fd010aa7e38069e2085
 Section: Themes
 Icon: icons/TestIcon
 Description: CircularIcons mask.
-Author: johnnyb186
+Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: CircularIcons Mask
 
 Package: com.johnnyb186.LightsOutWidget
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: johnnyb186
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/LightsOutWidget.deb
 Size: 1388584
 MD5sum: ff31254a737ae53eab315bcfb267f2ad
@@ -39,14 +39,14 @@ SHA1: 9a91c81a49734e30755251fccc2fee5effcfadee
 SHA256: 0c6c9d47fa20ce4bd5f074e695a12127c9af9f7803c419c871bcae97982e524a
 Section: Widgets
 Description: Xen HTML Widget for Lights Out Theme.
-Author: johnnyb186
+Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: LightsOut Widget
 Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
 
 Package: com.johnnyb186.mooniwidget
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: johnnyb186
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/LightsOutiWidget.deb
 Size: 1703020
 MD5sum: 0207623462d7676a4050bf884e2f34e0
@@ -54,14 +54,14 @@ SHA1: 33f5eda81afd053d39d58e0c8ed60e91ba79d692
 SHA256: d3e345e076c77d07fe7260b1b23497fcb434301ba96c49bb926846ef1bfc910b
 Section: Widgets
 Description: Beautiful Moon iWidget for Xen HTML
-Author: johnnyb186
+Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: Moon iWidget
 Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
 
 Package: com.johnnyb186.smileyiWidget
 Version: 0.8
 Architecture: iphoneos-arm
-Maintainer: johnnyb186
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/iWidget.deb
 Size: 7088
 MD5sum: a7e96bb038f7e96b9fa3a41037e9a14b
@@ -69,14 +69,14 @@ SHA1: 5d4ff9ebbdc0d1859ecb388b396bed78f06005ea
 SHA256: 03471b74d96238da3cf3ab8ec0e35015e8b1a751d1747e0c3424210ca461ec64
 Section: Widgets
 Description: Rainbow Smiley iWidget for Xen HTML
-Author: johnnyb186
+Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: Rainbow Smiley iWidget
 Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
 
 Package: com.johnnyb186.diyiwidget
 Version: 1.0.1-2
 Architecture: iphoneos-arm
-Maintainer: johnnyb186
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/DIYiWidget.deb
 Size: 1388584
 MD5sum: 8a541e6d1a798481468e0d93aba2a6eb
@@ -84,6 +84,6 @@ SHA1: 09f9993b63791de8f4450fdb01ca882bfb8937d3
 SHA256: b2e417412fdf03833bdd5b77cfe1ab24e44e30fceff4dea8c85a3b415033652f
 Section: Widgets
 Description: View readme in private>var>mobile>Library>iWidgets>DIY iWidget to set your own image.
-Author: johnnyb186
+Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: DIY iWidget
 Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
