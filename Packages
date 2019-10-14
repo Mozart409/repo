@@ -3,7 +3,7 @@ Version: 0.88
 Architecture: iphoneos-arm
 Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/LightsOut.deb
-Size: 4720
+Size: 4720000
 MD5sum: a7a395255019ae089ee23f301844cdce
 SHA1: be36c71b3aeca23c177da670708a495a93ece228
 SHA256: 6ebeaccf1b6900711a0d27fe2d6b7ebd894dc7c5b1ac2818f40b730a8a14f737
