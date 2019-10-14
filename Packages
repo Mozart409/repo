@@ -10,7 +10,7 @@ SHA256: 6ebeaccf1b6900711a0d27fe2d6b7ebd894dc7c5b1ac2818f40b730a8a14f737
 Section: Themes
 Description: LightsOut is a beautiful theme.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
-Icon: https://github.com/Mozart409/repo/blob/master/icons/LightsOutIcon.jpg
+Icon: https://mozart409.github.io/repo/assets/LightsOutIcon.jpg
 Name: LightsOut
 
 Package: com.johnnyb186.CircularIcons
