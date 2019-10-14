@@ -1,0 +1,8 @@
+body {
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+}
+
+h1 {
+    white-space: normal;
+}
