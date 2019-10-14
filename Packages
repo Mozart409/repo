@@ -10,7 +10,7 @@ SHA256: 6ebeaccf1b6900711a0d27fe2d6b7ebd894dc7c5b1ac2818f40b730a8a14f737
 Section: Themes
 Description: LightsOut is a beautiful theme.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
-Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
+Icon: https://github.com/Mozart409/repo/blob/master/icons/LightsOutIcon.jpg
 Name: LightsOut
 
 Package: com.johnnyb186.CircularIcons
@@ -41,7 +41,7 @@ Section: Widgets
 Description: Xen HTML Widget for Lights Out Theme.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: LightsOut Widget
-Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
+Icon: https://github.com/Mozart409/repo/blob/master/icons/LightsOutIcon.jpg
 
 Package: com.johnnyb186.mooniwidget
 Version: 1.0
@@ -56,7 +56,7 @@ Section: Widgets
 Description: Beautiful Moon iWidget for Xen HTML
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: Moon iWidget
-Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
+Icon: icons/LightsOutIcon.jpg
 
 Package: com.johnnyb186.smileyiWidget
 Version: 0.8
@@ -71,7 +71,7 @@ Section: Widgets
 Description: Rainbow Smiley iWidget for Xen HTML
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: Rainbow Smiley iWidget
-Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
+Icon: icons/LightsOutIcon.jpg
 
 Package: com.johnnyb186.diyiwidget
 Version: 1.0.1-2
@@ -86,4 +86,4 @@ Section: Widgets
 Description: View readme in private>var>mobile>Library>iWidgets>DIY iWidget to set your own image.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Name: DIY iWidget
-Icon: https://github.com/Mozart409/repo/blob/master/icons/TestIcon.png
+Icon: icons/LightsOutIcon.jpg
