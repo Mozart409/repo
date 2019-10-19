@@ -7,3 +7,22 @@ h1 {
     white-space: normal;
     line-height:1.1;
 }
+
+#BigLogo{
+    width:64px;
+    float: right; 
+    border-radius: .125rem; 
+    line-height:1.1;
+    vertical-align: middle;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#footer {
+    text-align: center;
+}
+
+.TweakList {
+    color:#959595; 
+    padding-left: 0.5em;
+}
