@@ -49,7 +49,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/MooniWidget.deb
-Size: 1703020
+Size: 1066012
 MD5sum: 0207623462d7676a4050bf884e2f34e0
 SHA1: 33f5eda81afd053d39d58e0c8ed60e91ba79d692
 SHA256: d3e345e076c77d07fe7260b1b23497fcb434301ba96c49bb926846ef1bfc910b
@@ -64,7 +64,7 @@ Version: 0.8
 Architecture: iphoneos-arm
 Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/SmileyiWidget.deb
-Size: 7088
+Size: 1324716
 MD5sum: a7e96bb038f7e96b9fa3a41037e9a14b
 SHA1: 5d4ff9ebbdc0d1859ecb388b396bed78f06005ea
 SHA256: 03471b74d96238da3cf3ab8ec0e35015e8b1a751d1747e0c3424210ca461ec64
@@ -79,7 +79,7 @@ Version: 1.0.1-2
 Architecture: iphoneos-arm
 Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/DIYiWidget.deb
-Size: 1388584
+Size: 4867800
 MD5sum: 8a541e6d1a798481468e0d93aba2a6eb
 SHA1: 09f9993b63791de8f4450fdb01ca882bfb8937d3
 SHA256: b2e417412fdf03833bdd5b77cfe1ab24e44e30fceff4dea8c85a3b415033652f
@@ -94,7 +94,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Pravin
 Filename: debs/Daxel.deb
-Size: 36020020
+Size: 22392740
 MD5sum: d38855cc61ec684a5b5724b1fc407ed1
 SHA1: 23c522beaf155be0b21ed74fbe93173f5dee349a
 SHA256: 921c6c0b09ee6644241f2c0683dd1c5931a3973fb096846daee8795c4ae29e04
