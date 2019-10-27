@@ -88,3 +88,19 @@ Description: View readme in private>var>mobile>Library>iWidgets>DIY iWidget to s
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Icon: https://mozart409.github.io/repo/assets/DIYiWidget.jpg
 Name: DIY iWidget
+
+Package: com.pravin.daxel
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Pravin
+Filename: debs/Daxel.deb
+Size: 36020020
+MD5sum: d38855cc61ec684a5b5724b1fc407ed1
+SHA1: 23c522beaf155be0b21ed74fbe93173f5dee349a
+SHA256: 921c6c0b09ee6644241f2c0683dd1c5931a3973fb096846daee8795c4ae29e04
+Section: Themes
+Description: A scetchy neon theme for everyone who wants to try something new
+Author: Pravin
+Icon: https://mozart409.github.io/repo/assets/CircularIcons.jpg
+Name: CircularIcons Mask
+Depends: com.anemonetheming.anemone | com.spark.snowboard
