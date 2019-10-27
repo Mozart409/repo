@@ -104,3 +104,18 @@ Author: Pravin
 Icon: https://mozart409.github.io/repo/assets/Daxelicon.png
 Name: Daxel Theme
 Depends: com.anemonetheming.anemone | com.spark.snowboard
+
+Package: com.johnnyb186.pleasewaitrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/PleaseWaitRespring.deb
+Size: 212338
+MD5sum: bbbb3b860c7e7ed6e97eb849afa55a79
+SHA1: 50939a30b2ae3581abf17d078dd9e4a0cee9172c
+SHA256: 095a00d2c6752eacca24836a78f3dd651d3db01ae6cdd8f813df12ca578a22ef
+Section: Themes
+Description: A Simple Respring Animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/PleaseWaitRespringIcon.jpg
+Name: Please Wait Respring
