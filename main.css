@@ -8,10 +8,14 @@ h1 {
   line-height: 1.1;
 }
 
+li{
+  border-radius: 0.5rem;
+}
+
 #BigLogo {
   width: 64px;
   float: right;
-  border-radius: 0.125rem;
+  border-radius: 0.5rem;
   line-height: 1.1;
   vertical-align: middle;
   margin-top: auto;
