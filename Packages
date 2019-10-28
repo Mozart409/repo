@@ -119,3 +119,19 @@ Description: A Simple Respring Animation.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Icon: https://mozart409.github.io/repo/assets/PleaseWaitRespringIcon.jpg
 Name: Please Wait Respring
+
+Package: me.mozart409.wplusrespringlogo 
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Mozart409
+Filename: debs/WPlusRespring.deb
+Size: 4946394
+MD5sum: 2ef62ebbc26b0ca1031d3affda6b776f
+SHA1: 0376ec6e663a4e54f380e4c9eaf5ebeea37a4462
+SHA256: 2a05e4488ac4eea6ff722b2fed45220d6853ce294c143024cc3e255591485afc
+Section: Themes
+Description: This is respring logo is glitchy and I made it on purpose, because I enjoy it more :)
+Author: Mozart409
+Icon: https://mozart409.github.io/repo/assets/CircularIcons.jpg
+Name: WPlus Respring Logo
+Homepage: https://wplus.space
