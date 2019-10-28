@@ -121,7 +121,7 @@ Icon: https://mozart409.github.io/repo/assets/PleaseWaitRespringIcon.jpg
 Name: Please Wait Respring
 
 Package: me.mozart409.wplusrespringlogo 
-Version: 0.1
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Mozart409
 Filename: debs/WPlusRespring.deb
