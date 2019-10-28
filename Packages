@@ -151,3 +151,17 @@ Author: johnnyb186 <johnnycyrus10@gmail.com>
 Icon: https://mozart409.github.io/repo/assets/PacmanRespringIcon.jpg
 Name: Pacman Respring
 
+Package: com.johnnyb186.fullscreencolorfulrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/FSColorfulRespring.deb
+Size: 38403042
+MD5sum: c4430183c81cfa5f73d90f75239654fd
+SHA1: 048ab4bb17900614b47eb33beb6203e1626062ac
+SHA256: f288055f96d622c0bb1cf78e7f0175f18adf3cdef17cbdd3e9fc259a82fb53e1
+Section: Themes
+Description: A blurred & colorful full Screen Respring Logo.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/FSColorfulRespringIcon.jpg
+Name: Full Screen Colorful Respring Logo
