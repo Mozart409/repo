@@ -110,10 +110,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/PleaseWaitRespring.deb
-Size: 212338
-MD5sum: bbbb3b860c7e7ed6e97eb849afa55a79
-SHA1: 50939a30b2ae3581abf17d078dd9e4a0cee9172c
-SHA256: 095a00d2c6752eacca24836a78f3dd651d3db01ae6cdd8f813df12ca578a22ef
+Size: 212330
+MD5sum: 8d2c9489f30b74945424a42636faf6ee
+SHA1: 9d5c856d8c696cc6eec5673a30d4cac61467675d
+SHA256: 0c6fdf89e04b7e9f20e4727a77a0721d08648ec8ac8c7913e22af4ed34498992
 Section: Themes
 Description: A Simple Respring Animation.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
