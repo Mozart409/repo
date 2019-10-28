@@ -135,3 +135,19 @@ Author: Mozart409
 Icon: https://mozart409.github.io/repo/assets/CircularIcons.jpg
 Name: WPlus Respring Logo
 Homepage: https://wplus.space
+
+Package: com.johnnyb186.pacmanrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/PacmanRespring.deb
+Size: 26270
+MD5sum: 46f73eeca7b4703c5969ca34bbcf0660
+SHA1: e77557d1f844af1a623e8527375336bd746b45b9
+SHA256: 5bc2d5c23156b6753f978f67fa88080c8c7934bbcf0d76702dbf05ce17cba6b7
+Section: Themes
+Description: A Pacman Respring Animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/PacmanRespringIcon.jpg
+Name: Pacman Respring
+
