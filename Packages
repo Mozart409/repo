@@ -120,7 +120,7 @@ Author: johnnyb186 <johnnycyrus10@gmail.com>
 Icon: https://mozart409.github.io/repo/assets/PleaseWaitRespringIcon.jpg
 Name: Please Wait Respring
 
-Package: me.mozart409.wplusrespringlogo 
+Package: me.mozart409.wplusrespringlogo
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Mozart409
@@ -136,7 +136,7 @@ Icon: https://mozart409.github.io/repo/assets/CircularIcons.jpg
 Name: WPlus Respring Logo
 Homepage: https://wplus.space
 
-Package: me.mozart409.morphingwormrespring 
+Package: me.mozart409.morphingwormrespring
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Mozart409
@@ -146,7 +146,7 @@ MD5sum: 2fdb1a261b95ad0e89faab1ba8cc81de
 SHA1: c8ec1f5b4ffa520b970b5bc86eed35a53058e958
 SHA256: 4d5b1eccaaa574bed001a0fb1507d5713bccfcc335b712a2ea2e5495c6db8518
 Section: Themes
-Description: Morphing Worm 
+Description: Morphing Worm
 Author: Mozart409
 Icon: https://mozart409.github.io/repo/assets/MorphingWormIcon.png
 Name: Morphing Worm Respring Logo
@@ -181,3 +181,18 @@ Description: A blurred & colorful full Screen Respring Logo.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Icon: https://mozart409.github.io/repo/assets/FSColorfulRespringIcon.jpg
 Name: Full Screen Colorful Respring Logo
+
+Package: com.pravin.daxelWidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Pravin
+Filename: debs/DaxelWidget.deb
+Size: 298,692
+MD5sum: d6c24115fb8f22995a29bb411780728e
+SHA1: d54f433cbd7cf119afe05d0602613d999b731c5c
+SHA256: c6224ef54f2b88713f6d7725b423d799e485a4dfb9c72548776d28d2bb3aac2d
+Section: Widgets
+Description: A Lockscreen widget to go with Daxel theme. (credit to Evlyn)
+Author: Pravin
+Icon: https://mozart409.github.io/repo/assets/dwidget.jpg
+Name: Daxel Widget
