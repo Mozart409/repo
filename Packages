@@ -136,6 +136,22 @@ Icon: https://mozart409.github.io/repo/assets/CircularIcons.jpg
 Name: WPlus Respring Logo
 Homepage: https://wplus.space
 
+Package: me.mozart409.morphingwormrespring 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mozart409
+Filename: debs/MorphingWormRespring.deb
+Size: 1008860
+MD5sum: 2fdb1a261b95ad0e89faab1ba8cc81de
+SHA1: c8ec1f5b4ffa520b970b5bc86eed35a53058e958
+SHA256: 4d5b1eccaaa574bed001a0fb1507d5713bccfcc335b712a2ea2e5495c6db8518
+Section: Themes
+Description: Morphing Worm 
+Author: Mozart409
+Icon: https://mozart409.github.io/repo/assets/MorphingWormIcon.png
+Name: Morphing Worm Respring Logo
+Homepage: https://wplus.space
+
 Package: com.johnnyb186.pacmanrespring
 Version: 0.1
 Architecture: iphoneos-arm
