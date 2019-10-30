@@ -187,7 +187,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Pravin
 Filename: debs/DaxelWidget.deb
-Size: 298,692
+Size: 298692
 MD5sum: d6c24115fb8f22995a29bb411780728e
 SHA1: d54f433cbd7cf119afe05d0602613d999b731c5c
 SHA256: c6224ef54f2b88713f6d7725b423d799e485a4dfb9c72548776d28d2bb3aac2d
