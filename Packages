@@ -198,7 +198,7 @@ Icon: https://mozart409.github.io/repo/assets/dwidget.jpg
 Name: Daxel Widget
 
 Package: com.johnnyb186.spotifyuxrespring
-Version: 1.0
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
 Filename: debs/SpotifyUX.deb
@@ -211,3 +211,18 @@ Description: A Spotify UX respring animation.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Icon: https://mozart409.github.io/repo/assets/SpotifyUX.jpg
 Name: Spotify UX Respring
+
+Package: com.johnnyb186.trippypotleafrespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/WeedRespring.deb
+Size: 186426
+MD5sum: e60f40ea05115c94cc195f0c0a8d3816
+SHA1: f150ff8351de374c257377cbaf113ee1bf853ba4
+SHA256: 7cc461d8fb2df9dfdbf4bf4522067ad6d85741e762006df7328ea7394d1871a6
+Section: Themes
+Description: A small & trippy pot leaf respring animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/trippypotleafrespring.jpg
+Name: Trippy Pot Leaf Respring
