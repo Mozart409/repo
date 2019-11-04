@@ -196,3 +196,18 @@ Description: A Lockscreen widget to go with Daxel theme. (credit to Evlyn)
 Author: Pravin
 Icon: https://mozart409.github.io/repo/assets/dwidget.jpg
 Name: Daxel Widget
+
+Package: com.johnnyb186.spotifyuxrespring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: johnnyb186 <johnnycyrus10@gmail.com>
+Filename: debs/SpotifyUX.deb
+Size: 186426
+MD5sum: 2eea171b19b5809bcd3cbcc8ba35ec08
+SHA1: 056dc84bfd0020c5764b6cc33a5d39b486b036b4
+SHA256: 7f32b748028277da2b1b11349bb2433d8447884ab50599bc217579b8ff4e8a7e
+Section: Themes
+Description: A Spotify UX respring animation.
+Author: johnnyb186 <johnnycyrus10@gmail.com>
+Icon: https://mozart409.github.io/repo/assets/SpotifyUX.jpg
+Name: Spotify UX Respring
