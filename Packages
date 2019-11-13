@@ -226,3 +226,19 @@ Description: A small & trippy pot leaf respring animation.
 Author: johnnyb186 <johnnycyrus10@gmail.com>
 Icon: https://mozart409.github.io/repo/assets/trippypotleafrespring.jpg
 Name: Trippy Pot Leaf Respring
+
+
+Package: me.mozart409.walkingrespring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mozart409
+Filename: debs/WalkingRespring.deb
+Size: 67768
+MD5sum: c1e5176b8d2f9359b98c8d060a401977
+SHA1: 831263f5bc345cc11672895131875a7c3c112ecf
+SHA256: ad36c64d4f05dceb8deba3fcee73a426c7d69ef3258f9136dc09464afea4cbb8
+Section: Themes
+Description: A walking respring animation
+Author: Mozart409
+Icon: https://mozart409.github.io/repo/assets/WalkingRespring.png
+Name: Walking Respring Logo
