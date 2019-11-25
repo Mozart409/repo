@@ -1,0 +1,11 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "Our repo",
+  "main": "index.js",
+  "repository": "https://github.com/Mozart409/repo.git",
+  "author": "Mozart409 <mozart_amadeus@yahoo.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
